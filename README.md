@@ -8,7 +8,7 @@
   * 支持英文润色，中文润色
   * 支持论文摘要、论文里面的细节探讨、ChatGPT3.5和ChatGPT4.0强力加持的大模型，让AI助手真正能助力医学科研人员更好的掌握学术论文
   * 注册即拥有免费额度
-  * 访问地址：http://med.zhizengzeng.com/     
+  * 访问地址：https://yixiaoyan.cn/     
          
 更多重磅功能，欢迎入群提需求     
 ![qun1](https://github.com/xing61/med-sci-chatgpt/assets/38256442/1554e87d-b668-43e3-bcd8-7544786eab1c)
@@ -21,7 +21,7 @@
 chatgpt医学科研prompt模板有哪些？chatgpt的学术prompt有哪些？医学科研    
 这里整理一下chatgpt学术提问的一些prompt，供参考      
 
-（更多技巧可以使用医小妍，你的医学科研AI助手！地址：http://med.zhizengzeng.com/）     
+（更多技巧可以使用医小妍，你的医学科研AI助手！地址：https://yixiaoyan.cn/）     
 
 英文学术论文润色     
 
