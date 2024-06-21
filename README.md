@@ -1,4 +1,4 @@
-# zzz-sci
+# zzz-sci, 学术gpt，你的学术科研AI助手！
 
 #### 介绍
 智增增sci，学术gpt，你的学术科研AI助手！   
