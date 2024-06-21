@@ -4,11 +4,11 @@
 智增增sci，学术gpt，你的学术科研AI助手！   
 
 - **项目主要功能**  
-  * 支持英文翻译成中文，中文翻译成中文
   * 支持英文润色，中文润色
+  * 支持英文翻译成中文，中文翻译成中文
   * 支持论文摘要、论文里面的细节探讨、ChatGPT3.5和ChatGPT4.0强力加持的大模型，让AI助手真正能助力学术科研人员更好的掌握学术论文
   * 注册即拥有免费额度
-  * 访问地址：http://sci.zhizengzeng.com/           
+  * 访问地址：https://sci.zhizengzeng.com/           
          
 更多重磅功能，欢迎入群提需求     
 ![qun1](https://github.com/xing61/zzz-sci/assets/38256442/8cb6eb1e-b8f4-4641-abea-f8ac21ffa1b5)
@@ -16,13 +16,15 @@
 
 
 使用截图：     
-![微信截图_20240428104756](https://github.com/xing61/med-sci-chatgpt/assets/38256442/8481e89d-3ee5-4f91-837e-426360e32c83)
+![润色使用1](https://github.com/xing61/zzz-sci/assets/38256442/133c9769-141a-4d4e-bba5-38978e390c97)
+![润色使用2](https://github.com/xing61/zzz-sci/assets/38256442/955c9451-a90b-4ec7-a4cc-a7716e0abf8c)
+
 
 ### 附录：    
 chatgpt学术科研prompt模板有哪些？chatgpt的学术prompt有哪些？学术gpt，学术科研    
 这里整理一下chatgpt学术提问的一些prompt，供参考      
 
-（更多技巧可以使用智增增sci，学术gpt，你的学术科研AI助手！地址：http://sci.zhizengzeng.com/）     
+（更多技巧可以使用智增增sci，学术gpt，你的学术科研AI助手！地址：https://sci.zhizengzeng.com/）     
 
 英文学术论文润色     
 
