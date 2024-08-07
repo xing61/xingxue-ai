@@ -11,8 +11,7 @@
   * 访问地址：https://sci.zhizengzeng.com/           
          
 更多重磅功能，欢迎入群提需求     
-![qun1](https://github.com/xing61/zzz-sci/assets/38256442/8cb6eb1e-b8f4-4641-abea-f8ac21ffa1b5)
-
+![qun2](https://github.com/user-attachments/assets/5fa9774c-be99-451b-b086-36bad7dc8532)
 
 
 使用截图：     
