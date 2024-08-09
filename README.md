@@ -1,7 +1,7 @@
 # 行学AI-你的学术科研AI助手！学术GPT
 
 #### 介绍
-行学AI，你的学术科研AI助手！学术GPT （<font color=red>新版本迭代开发ing，敬请期待~</font>）  
+行学AI，你的学术科研AI助手！学术GPT （<font color="red">新版本迭代开发ing，敬请期待~</font>）  
 
 - **项目主要功能**  
   * 支持英文润色，中文润色
