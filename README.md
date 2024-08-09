@@ -8,7 +8,11 @@
   * 支持英文翻译成中文，中文翻译成中文
   * 支持论文摘要、论文里面的细节探讨、ChatGPT3.5和ChatGPT4.0强力加持的大模型，让AI助手真正能助力学术科研人员更好的掌握学术论文
   * 注册即拥有免费额度
-  * 访问地址：https://sci.zhizengzeng.com/           
+  * 访问地址：https://sci.zhizengzeng.com/
+ - **其它学术科研资源参考**  
+  *    GPT 学术优化 (GPT Academic)：https://github.com/binary-husky/gpt_academic
+  *    GPT 学术优化（智增增版） (GPT Academic)：https://github.com/xing61/zzz_gpt_academic
+  *    GPT 学术优化（智增增版）项目官方网址：http://app.zhizengzeng.com:51666/        
          
 更多重磅功能，欢迎入群提需求     
 ![qun2](https://github.com/user-attachments/assets/5fa9774c-be99-451b-b086-36bad7dc8532)
@@ -20,12 +24,7 @@
 
 
 ### 附录：  
-1、其它学术科研资源参考：   
-GPT 学术优化 (GPT Academic)：https://github.com/binary-husky/gpt_academic    
-GPT 学术优化（智增增版） (GPT Academic)：https://github.com/xing61/zzz_gpt_academic     
-GPT 学术优化（智增增版）项目官方网址：http://app.zhizengzeng.com:51666/     
-
-2、chatgpt学术科研prompt模板有哪些？chatgpt的学术prompt有哪些？学术gpt，学术科研    
+chatgpt学术科研prompt模板有哪些？chatgpt的学术prompt有哪些？学术gpt，学术科研    
 这里整理一下chatgpt学术提问的一些prompt，供参考           
 
 英文学术论文润色     
