@@ -19,8 +19,13 @@
 ![润色使用2](https://github.com/xing61/zzz-sci/assets/38256442/955c9451-a90b-4ec7-a4cc-a7716e0abf8c)
 
 
-### 附录：    
-chatgpt学术科研prompt模板有哪些？chatgpt的学术prompt有哪些？学术gpt，学术科研    
+### 附录：  
+1、其它学术科研资源参考：   
+GPT 学术优化 (GPT Academic)：https://github.com/binary-husky/gpt_academic
+GPT 学术优化（智增增版） (GPT Academic)：https://github.com/xing61/zzz_gpt_academic
+GPT 学术优化（智增增版）项目官方网址：http://app.zhizengzeng.com:51666/
+
+2、chatgpt学术科研prompt模板有哪些？chatgpt的学术prompt有哪些？学术gpt，学术科研    
 这里整理一下chatgpt学术提问的一些prompt，供参考      
 
 （更多技巧可以使用智增增sci，学术gpt，你的学术科研AI助手！地址：https://sci.zhizengzeng.com/）     
