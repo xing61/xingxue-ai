@@ -10,9 +10,9 @@
   * 注册即拥有免费额度
   * 访问地址：https://sci.zhizengzeng.com/
  - **其它学术科研资源参考**  
-  *    GPT 学术优化 (GPT Academic)：https://github.com/binary-husky/gpt_academic
-  *    GPT 学术优化（智增增版） (GPT Academic)：https://github.com/xing61/zzz_gpt_academic
-  *    GPT 学术优化（智增增版）项目官方网址：http://app.zhizengzeng.com:51666/        
+  * GPT 学术优化 (GPT Academic)：https://github.com/binary-husky/gpt_academic
+  * GPT 学术优化（智增增版） (GPT Academic)：https://github.com/xing61/zzz_gpt_academic
+  * GPT 学术优化（智增增版）项目官方网址：http://app.zhizengzeng.com:51666/        
          
 更多重磅功能，欢迎入群提需求     
 ![qun2](https://github.com/user-attachments/assets/5fa9774c-be99-451b-b086-36bad7dc8532)
