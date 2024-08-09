@@ -10,6 +10,7 @@
   * 支持论文摘要、论文里面的细节探讨、ChatGPT3.5和ChatGPT4.0强力加持的大模型，让AI助手真正能助力学术科研人员更好的掌握学术论文
   * 注册即拥有免费额度
   * 访问地址：https://sci.zhizengzeng.com/
+ 
  - **其它学术科研资源参考**     
   * GPT 学术优化 (GPT Academic)：https://github.com/binary-husky/gpt_academic
   * GPT 学术优化（智增增版） (GPT Academic)：https://github.com/xing61/zzz_gpt_academic
