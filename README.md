@@ -21,11 +21,6 @@
 ![qun2](https://github.com/user-attachments/assets/5fa9774c-be99-451b-b086-36bad7dc8532)
 
 
-使用截图：     
-![润色使用1](https://github.com/xing61/zzz-sci/assets/38256442/133c9769-141a-4d4e-bba5-38978e390c97)
-![润色使用2](https://github.com/xing61/zzz-sci/assets/38256442/955c9451-a90b-4ec7-a4cc-a7716e0abf8c)
-
-
 ### 附录：  
 chatgpt学术科研prompt模板有哪些？chatgpt的学术prompt有哪些？学术gpt，学术科研    
 这里整理一下chatgpt学术提问的一些prompt，供参考           
