@@ -1,9 +1,9 @@
-# 行学AI-你的学术科研AI助手！学术GPT
+# 行学AI-你的医学AI助手
 
 #### 介绍
-行学AI，你的学术科研AI助手！学术GPT        
-（源起：目前有的一些方式使用太复杂了，不够简洁，甚至门槛太高了，到底有没有能简单好用的科研助手呢？        
-于是就有了行学AI，还在迭代ing，欢迎提需求，努力做最好用的学术科研AI助手）
+行学AI，你的医学AI助手
+更懂医学, 而不是通用AI
+（还在迭代ing，欢迎提需求，努力做更好用的医学AI）
 
 - **项目主要功能（全新版本开发ing，敬请期待~）**  
   * 支持英文润色，中文润色
@@ -11,11 +11,7 @@
   * 支持论文摘要、论文里面的细节探讨、ChatGPT3.5和ChatGPT4.0强力加持的大模型，让AI助手真正能助力学术科研人员更好的掌握学术论文
   * 注册即拥有免费额度
   * 访问地址：https://xingxue-ai.com
- 
- - **其它学术科研资源参考**     
-  * GPT 学术优化 (GPT Academic)：https://github.com/binary-husky/gpt_academic
-  * GPT 学术优化（智增增版） (GPT Academic)：https://github.com/xing61/zzz_gpt_academic
-  * GPT 学术优化（智增增版）项目官方网址：http://app.zhizengzeng.com:51666/        
+       
          
 更多重磅功能，欢迎入群提需求     
 ![qun2](https://github.com/user-attachments/assets/5fa9774c-be99-451b-b086-36bad7dc8532)
